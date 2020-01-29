@@ -1,0 +1,43 @@
+h1{
+    font-family: Roboto;
+    font-size: 30px;
+    color: darkblue;
+    text-shadow: 2px 2px 2px grey;
+}
+
+h3{
+    text-align: center;
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+h3:hover{
+    background-color: cornflowerblue;
+    box-shadow: 10px 10px 20px grey;
+}
+table{
+    border-style:solid; padding:15px;
+    border-radius: 25px;
+}
+p:hover{
+    background-color: gainsboro;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+
+ul:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
+}
+ol:hover{
+    background-color: gainsboro;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+h:hover{
+    background-color: gainsboro;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+table:hover{
+    box-shadow: 10px 10px 5px grey;
+    background-color: #fcfcfc;
+}
